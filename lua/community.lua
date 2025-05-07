@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.code-runner.conjure" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.utility.noice-nvim" },
   -- import/override with your plugins folder
 }
