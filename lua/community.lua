@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.code-runner.conjure" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.recipes.heirline-vscode-winbar" },
   -- import/override with your plugins folder
 }
